@@ -2,6 +2,10 @@
   	<h1 align="center">Blockchain Example with TypeScript</h1>
 </div>
 
+
+![blockchain](https://github.com/AlexGalhardo/blockchain-example-with-typescript/assets/19540357/c54947c0-55ef-4e3e-b61c-8e81c8381c21)
+
+
 ## Introduction
 
 - A very simple blockchain example using in [TypeScript](https://www.typescriptlang.org) and [Bun](https://bun.sh)
