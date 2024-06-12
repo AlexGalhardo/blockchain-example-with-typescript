@@ -32,7 +32,7 @@ cd blockchain-example-with-typescript/
 bun install
 ```
 
-4. Run setup.sh
+4. Run script
 ```bash
 bun run start
 ```
