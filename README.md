@@ -23,11 +23,16 @@ git clone git@github.com:alexgalhardo/blockchain-example-with-typescript.git
 ```
 
 2. Enter repository
-```
+```bash
 cd blockchain-example-with-typescript/
 ```
 
-3. Run setup.sh
+3. Install dependencies
+```bash
+bun install
 ```
+
+4. Run setup.sh
+```bash
 bun run start
 ```
